@@ -1,2 +1,2 @@
-# Chrome-Password-Importer
-Script to import chrome passwords programmatically from browser console.
+# Chrome-Password-Exporter
+Script to export chrome passwords programmatically from browser console.
